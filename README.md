@@ -1,4 +1,4 @@
-# Retail Sales Forecasting & Business Insights System
+# Retail Sales Forecasting & Business Insights Platform
 
 ## 📌 Project Overview
 This project focuses on forecasting weekly retail sales using historical Walmart data and machine learning models. The objective is to generate accurate sales predictions and transform them into actionable business insights through structured data processing and visualization-ready outputs.
